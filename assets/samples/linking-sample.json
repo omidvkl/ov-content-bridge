@@ -1,0 +1,33 @@
+{
+  "link_rules": [
+    {
+      "anchors": ["راهنمای انتخاب محصول", "راهنمای خرید محصول"],
+      "target": { "slug": "راهنمای-انتخاب-محصول", "type": "post" },
+      "max_per_post": 1
+    },
+    {
+      "anchor": "محصول نمونه",
+      "target": { "id": 123 },
+      "max_total": 20,
+      "exclude": ["about-us"]
+    },
+    {
+      "anchor": "خرید آنلاین",
+      "url": "https://example.com/shop/",
+      "apply_to": ["راهنمای-انتخاب-محصول"]
+    }
+  ],
+  "updates": [
+    {
+      "id": 45,
+      "type": "post",
+      "content": "<p>محتوای کامل جدید نوشته با لینک‌های داخلی…</p>"
+    },
+    {
+      "slug": "sample-product",
+      "type": "product",
+      "content": "<p>توضیحات کامل جدید محصول…</p>",
+      "seo": { "description": "توضیحات متای جدید" }
+    }
+  ]
+}

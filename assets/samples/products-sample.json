@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "محصول نمونه",
+      "slug": "sample-product",
+      "sku": "SAMPLE-001",
+      "regular_price": "1,250,000",
+      "sale_price": "",
+      "short_description": "<p>توضیح کوتاه محصول.</p>",
+      "description": "<p>توضیحات کامل محصول…</p>",
+      "categories": ["دسته اصلی > زیر دسته"],
+      "tags": ["برچسب ۱"],
+      "stock_status": "instock",
+      "featured_image": "https://example.com/uploads/product.jpg",
+      "gallery": ["https://example.com/uploads/p-2.jpg"],
+      "attributes": [{ "name": "رنگ", "options": ["مشکی", "سفید"] }],
+      "seo": { "title": "خرید محصول نمونه | نام سایت", "description": "…", "focus_keyword": "خرید محصول نمونه" }
+    }
+  ]
+}

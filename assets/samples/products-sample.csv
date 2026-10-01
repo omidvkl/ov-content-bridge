@@ -1,0 +1,2 @@
+﻿name,slug,sku,regular_price,sale_price,categories,tags,stock_status,short_description,description,featured_image,attribute:رنگ,seo_title,seo_description,focus_keyword
+محصول نمونه,sample-product,SAMPLE-001,1250000,,دسته اصلی > زیر دسته,برچسب ۱|برچسب ۲,instock,<p>توضیح کوتاه</p>,<p>توضیحات کامل</p>,https://example.com/uploads/product.jpg,مشکی|سفید,خرید محصول نمونه,توضیحات متا,خرید محصول نمونه
